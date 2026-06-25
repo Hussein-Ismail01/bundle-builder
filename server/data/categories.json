@@ -1,0 +1,6 @@
+[
+  { "id": "cameras", "name": "Cameras", "step": 1 },
+  { "id": "plans", "name": "Plans", "step": 2 },
+  { "id": "sensors", "name": "Sensors", "step": 3 },
+  { "id": "extra-protection", "name": "Extra Protection", "step": 4 }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "id": "cam-4k-dome",
+    "category": "cameras",
+    "title": "Sentinel 4K Dome Camera",
+    "description": "Vandal-resistant 4K dome with 30m night vision.",
+    "image": "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/cam-4k-dome",
+    "price": 219.99,
+    "compareAtPrice": 279.99,
+    "currency": "USD",
+    "variants": [
+      { "id": "white", "label": "White" },
+      { "id": "black", "label": "Black" }
+    ]
+  },
+  {
+    "id": "cam-bullet-poe",
+    "category": "cameras",
+    "title": "Guardian Bullet PoE Camera",
+    "description": "Weatherproof IP67 bullet camera with AI person detection.",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/cam-bullet-poe",
+    "price": 159.0,
+    "currency": "USD",
+    "variants": [
+      { "id": "2mp", "label": "2MP" },
+      { "id": "5mp", "label": "5MP" },
+      { "id": "8mp", "label": "8MP" }
+    ]
+  },
+  {
+    "id": "cam-ptz-pro",
+    "category": "cameras",
+    "title": "Falcon PTZ Pro 25x",
+    "description": "Pan-tilt-zoom with 25x optical zoom and auto-tracking.",
+    "image": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/cam-ptz-pro",
+    "price": 549.5,
+    "compareAtPrice": 699.0,
+    "currency": "USD",
+    "variants": [{ "id": "standard", "label": "Standard" }]
+  },
+  {
+    "id": "plan-basic",
+    "category": "plans",
+    "title": "Basic Self-Monitoring",
+    "description": "App alerts and 7-day cloud video history. No contract.",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/plan-basic",
+    "price": 9.99,
+    "currency": "USD",
+    "variants": [
+      { "id": "monthly", "label": "Monthly" },
+      { "id": "annual", "label": "Annual" }
+    ]
+  },
+  {
+    "id": "plan-plus",
+    "category": "plans",
+    "title": "Plus Pro Monitoring",
+    "description": "24/7 professional monitoring with 30-day video history.",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/plan-plus",
+    "price": 24.99,
+    "compareAtPrice": 29.99,
+    "currency": "USD",
+    "variants": [
+      { "id": "monthly", "label": "Monthly" },
+      { "id": "annual", "label": "Annual" }
+    ]
+  },
+  {
+    "id": "plan-premium",
+    "category": "plans",
+    "title": "Premium Total Care",
+    "description": "Pro monitoring, 60-day history, and priority equipment support.",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/plan-premium",
+    "price": 39.99,
+    "currency": "USD",
+    "variants": [
+      { "id": "monthly", "label": "Monthly" },
+      { "id": "annual", "label": "Annual" }
+    ]
+  },
+  {
+    "id": "sen-motion-pir",
+    "category": "sensors",
+    "title": "MotionGuard PIR Sensor",
+    "description": "Wireless motion sensor with pet-immunity up to 25kg.",
+    "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/sen-motion-pir",
+    "price": 34.99,
+    "currency": "USD",
+    "variants": [
+      { "id": "single", "label": "Single" },
+      { "id": "pack-3", "label": "Pack of 3" }
+    ]
+  },
+  {
+    "id": "sen-door-window",
+    "category": "sensors",
+    "title": "EntryWatch Door/Window Contact",
+    "description": "Slim magnetic contact reporting open/close in real time.",
+    "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/sen-door-window",
+    "price": 18.5,
+    "compareAtPrice": 24.0,
+    "currency": "USD",
+    "variants": [
+      { "id": "white", "label": "White" },
+      { "id": "brown", "label": "Brown" }
+    ]
+  },
+  {
+    "id": "sen-glass-break",
+    "category": "sensors",
+    "title": "ShatterSense Glass-Break Detector",
+    "description": "Acoustic detector with 7.5m coverage and tamper alert.",
+    "image": "https://images.unsplash.com/photo-1542744095-291d1f67b221?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/sen-glass-break",
+    "price": 49.99,
+    "currency": "USD",
+    "variants": [{ "id": "standard", "label": "Standard" }]
+  },
+  {
+    "id": "xtra-siren-outdoor",
+    "category": "extra-protection",
+    "title": "Howler 110dB Outdoor Siren",
+    "description": "Solar-assisted outdoor siren with strobe and battery backup.",
+    "image": "https://images.unsplash.com/photo-1614064548237-096f735f344f?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/xtra-siren-outdoor",
+    "price": 89.0,
+    "compareAtPrice": 114.0,
+    "currency": "USD",
+    "variants": [
+      { "id": "red", "label": "Red" },
+      { "id": "white", "label": "White" }
+    ]
+  },
+  {
+    "id": "xtra-smart-lock",
+    "category": "extra-protection",
+    "title": "BoltSmart Deadbolt Lock",
+    "description": "Wi-Fi smart deadbolt with PIN, fingerprint and remote unlock.",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/xtra-smart-lock",
+    "price": 189.99,
+    "compareAtPrice": 244.99,
+    "currency": "USD",
+    "variants": [
+      { "id": "satin-nickel", "label": "Satin Nickel" },
+      { "id": "matte-black", "label": "Matte Black" }
+    ]
+  },
+  {
+    "id": "xtra-yard-kit",
+    "category": "extra-protection",
+    "title": "Deterrence Yard Sign & Sticker Kit",
+    "description": "Reflective yard sign with four window stickers to deter intruders.",
+    "image": "https://images.unsplash.com/photo-1599809275671-b5942cabc7a2?w=600&q=80",
+    "learnMoreUrl": "https://example.com/products/xtra-yard-kit",
+    "price": 14.99,
+    "currency": "USD",
+    "variants": [{ "id": "standard", "label": "Standard" }]
+  }
+]
