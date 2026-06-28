@@ -10,8 +10,8 @@
     "compareAtPrice": 279.99,
     "currency": "USD",
     "variants": [
-      { "id": "white", "label": "White" },
-      { "id": "black", "label": "Black" }
+      { "id": "white", "label": "White", "color": "#f3f4f6" },
+      { "id": "black", "label": "Black", "color": "#1f2937" }
     ]
   },
   {
@@ -109,8 +109,8 @@
     "compareAtPrice": 24.0,
     "currency": "USD",
     "variants": [
-      { "id": "white", "label": "White" },
-      { "id": "brown", "label": "Brown" }
+      { "id": "white", "label": "White", "color": "#f3f4f6" },
+      { "id": "brown", "label": "Brown", "color": "#6b4f3a" }
     ]
   },
   {
@@ -135,8 +135,8 @@
     "compareAtPrice": 114.0,
     "currency": "USD",
     "variants": [
-      { "id": "red", "label": "Red" },
-      { "id": "white", "label": "White" }
+      { "id": "red", "label": "Red", "color": "#dc2626" },
+      { "id": "white", "label": "White", "color": "#f3f4f6" }
     ]
   },
   {
@@ -150,8 +150,8 @@
     "compareAtPrice": 244.99,
     "currency": "USD",
     "variants": [
-      { "id": "satin-nickel", "label": "Satin Nickel" },
-      { "id": "matte-black", "label": "Matte Black" }
+      { "id": "satin-nickel", "label": "Satin Nickel", "color": "#c0c0c0" },
+      { "id": "matte-black", "label": "Matte Black", "color": "#1f2937" }
     ]
   },
   {

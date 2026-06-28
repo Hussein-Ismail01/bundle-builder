@@ -3,6 +3,8 @@ import { apiClient } from './client'
 export interface Variant {
   id: string
   label: string
+  /** Optional swatch color (hex) shown as a dot in the variant pill. */
+  color?: string
 }
 
 export interface Product {
